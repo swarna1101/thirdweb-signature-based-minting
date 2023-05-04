@@ -1,1 +1,0 @@
-# thirdweb-signature-based-minting
