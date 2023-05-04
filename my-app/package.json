@@ -9,12 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@thirdweb-dev/react": "^3.11.9",
+    "@thirdweb-dev/sdk": "^3.10.12",
+    "@thirdweb-dev/storage": "^1.1.2",
     "@types/node": "18.16.3",
     "@types/react": "18.2.3",
     "@types/react-dom": "18.2.3",
     "autoprefixer": "10.4.14",
     "eslint": "8.39.0",
     "eslint-config-next": "13.3.4",
+    "ethers": "^5.7.2",
     "next": "13.3.4",
     "postcss": "8.4.23",
     "react": "18.2.0",
